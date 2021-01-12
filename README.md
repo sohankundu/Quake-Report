@@ -4,8 +4,7 @@ from the U.S. Geological Survey (USGS) organization. Each list item contains the
 <br>
 <br>
 <br>
-<br>
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/46050303/104277117-41447880-54cc-11eb-93e2-e3736850152b.jpg" alt="Home" height="50%" width="50%"></p>
+    <img src="https://user-images.githubusercontent.com/46050303/104277117-41447880-54cc-11eb-93e2-e3736850152b.jpg" alt="Home" height="40%" width="40%"></p>
 <br>
 
